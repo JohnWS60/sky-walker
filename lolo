@@ -1,5 +1,7 @@
 {
    "status":"0",
    "message":"NOTOK",
-   "result":"You are using a deprecated V1 endpoint, switch to Etherscan API V2."
+   "result":"You are using a deprecated V1 endhttps://api.etherscan.io/v2/api?chainidpoint, switch to Etherscan API V2."
 }https://api.etherscan.io/api?&action=balance&apikey=YourEtherscanApiKey https://api.etherscan.io/v2/api?chainid=1&action=balance&apikey=YourEtherscanApiKey
+https://api.polygonscan.com/api?&action=balance&apikey=YourPolygonhttps://api.etherscan.io/v2/api?chainid=137&action=balance&apikey=YourEtherscanApiKeyscanApiKey 9d352c83-0a03-45eb-abe6-ca49b4ba4fcc   
+Polygon Mainnet	137	Available	Available https://api.etherscan.io/v2/api?chainid=137&action=balance&apikey=YourEtherscanApiKey
